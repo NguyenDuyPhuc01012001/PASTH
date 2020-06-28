@@ -2,9 +2,9 @@
 
 PASTH là một công ty nghiên cứu và phát triển về lĩnh vực công nghệ cao với trang thiết bị điện tử đa dụng.
 
-### Vòng tay GPS cho trẻ em - Định vị,kiểm soát con cái của bạn.
+### Vòng tay GPS cho trẻ em - Định vị, kiểm soát con cái của bạn.
 
-Là một trong những sản phẩm được chúng tôi nghiên cứu tỉ mỉ, được sinh ra với vai trò to lớn,giúp các bậc cha mẹ, phụ huynh kiểm soát tốt hơn với con cái của mình.
+Là một trong những sản phẩm được chúng tôi nghiên cứu tỉ mỉ, được sinh ra với vai trò to lớn, giúp các bậc cha mẹ, phụ huynh kiểm soát tốt hơn với con cái của mình.
 
 ![104483627_268765827771120_4411941508820243873_n](https://user-images.githubusercontent.com/67546866/85950069-a8fa0280-b984-11ea-84b3-492fbae72cd5.png)
 
@@ -28,7 +28,7 @@ Thông tin về vị trí của trẻ sẽ được hiển thị trên bản đ�
 Với vai trò là một đồng hồ cho trẻ em, chúng tôi cố gắng giảm trọng lượng nhẹ nhất có thể, chỉ với 60gr, giờ đây trẻ không còn đau tay, nhức mỏi.
 
 ## Tích hợp SIM - Phát âm thanh báo động !
-Không những kiểm soát dành cho phụ huynh,mà giờ đây trẻ em cũng có thể chủ động nghe, gọi, liên lạc lại cho ba mẹ của mình !
+Không những kiểm soát dành cho phụ huynh, mà giờ đây trẻ em cũng có thể chủ động nghe, gọi, liên lạc lại cho ba mẹ của mình !
 
 Khi gặp nguy hiểm trẻ có thể **nhấn nút báo động** cho phụ huynh.
 
@@ -51,7 +51,7 @@ Khi gặp nguy hiểm trẻ có thể **nhấn nút báo động** cho phụ huy
 
 ### ĐỘI NGŨ PHÁT TRIỂN
 
- _Trần Văn Truyền - 19522448_  
+ _Trần Văn Truyền - 19522448_ 
  
  _Nguyễn Duy Phúc - 19522038_
 
